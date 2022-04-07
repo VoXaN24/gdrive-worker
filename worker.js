@@ -13,7 +13,7 @@ self.props = {
     lite: true, // do not change this to false
 
     description: 'Google Drive Index',
-    assets_url: 'https://cdn.statically.io/gl/VoXaN24/gdrive-worker/master/assets',
+    assets_url: 'https://gitlab.com/VoXaN24/gdrive-worker/-/raw/master/assets',
     discord_invite: ''
 };
 (function () {
